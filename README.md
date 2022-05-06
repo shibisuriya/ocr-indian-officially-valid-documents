@@ -1,1 +1,1 @@
-# REST API to extract structured data from Indian OVD(s) (Officially Valid Documents)
+# REST API to extract structured text data from Indian OVD(s) (Officially Valid Documents) like Aadhaar card, PAN Card, Driving License, Passport, etc.
